@@ -1,0 +1,7 @@
+{
+  "name": "rapid2-ionic-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

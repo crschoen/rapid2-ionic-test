@@ -1,0 +1,11 @@
+{
+  "appId": "ionic.rapid2.test",
+  "appName": "ionic_rapid2_test",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
