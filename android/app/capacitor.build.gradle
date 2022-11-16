@@ -13,7 +13,7 @@ dependencies {
     implementation project(':capacitor-splash-screen')
 
 }
-
+apply from: "../../node_modules/cordova-plugin-ionic/src/android/cordovapluginionic.gradle"
 
 if (hasProperty('postBuildExtras')) {
   postBuildExtras()
